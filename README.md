@@ -5,7 +5,9 @@ This repository contains the answers to **Homework 4** of the class **ADM**. Det
 Specially, the file structure is as follows:
 ```        
 Project       
-├── README.md         
+├── README.md
+├── .gitignore
+├── LICENSE         
 ├── main.ipynb
 ├── MinHash.py     #Class MinHash       
 ├── data                            
