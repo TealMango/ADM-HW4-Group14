@@ -7,7 +7,7 @@ Specially, the file structure is as follows:
 Project       
 ├── README.md         
 ├── main.ipynb
-├── MinHash.py            
+├── MinHash.py     #Class MinHash       
 ├── data                            
     ├── .gitkeep             
 
