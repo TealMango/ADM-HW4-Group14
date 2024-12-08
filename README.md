@@ -13,12 +13,12 @@ Project
     └── xx
 ```
 
-The file holding the answers is available as [main.ipynb](google.com).
+The file holding the answers is available as [main.ipynb](https://github.com/TealMango/ADM-HW4-Group14/blob/main/main.ipynb).
 
 
 | Contributors                                                   |
 |----------------------------------------------------------------|
-| [1](google.com)                   |
-| [2](google.com)        |
+| [Samrawit Mewa](https://github.com/SamrawitMM)                 |
+| [Andrea Scalise](https://github.com/Andreascal)        |
 | [Chenjie Liu](https://github.com/TealMango)                    |
-| [3](google.com)                |
+| [Darkhan Maksutov](https://github.com/darkhmaks)                |
