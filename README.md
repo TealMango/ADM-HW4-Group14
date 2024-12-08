@@ -6,11 +6,11 @@ Specially, the file structure is as follows:
 ```        
 Project       
 ├── README.md         
-├── main.ipynb            
-├── xxx                            
-    ├── xx             
-    ├── xx
-    └── xx
+├── main.ipynb
+├── MinHash.py            
+├── data                            
+    ├── .gitkeep             
+
 ```
 
 The file holding the answers is available as [main.ipynb](https://github.com/TealMango/ADM-HW4-Group14/blob/main/main.ipynb).
