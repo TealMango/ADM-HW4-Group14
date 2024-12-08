@@ -15,6 +15,7 @@ Project
 
 The file holding the answers is available as [main.ipynb](https://github.com/TealMango/ADM-HW4-Group14/blob/main/main.ipynb).
 
+To correctly execute the main.ipynb file, the required datasets must be downloaded from Kaggle, as they are not included in the current repository. These datasets should be placed in the folder named data, which must be located in the same directory as the main.ipynb file.
 
 | Contributors                                                   |
 |----------------------------------------------------------------|
